@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.list-item {
+  list-style-type: none;
+  border-bottom: 1px solid black;
+  padding: 10px;
+  /* margin: 10px 0px 10px 5px; */
+  text-align: center;
+  margin-bottom: 8px;
+  cursor: pointer;
+}
+.title-app {
+  color: #7b8794;
+  font-family: 'Bree Serif';
+  padding-top: 10px;
+  border: 0 solid transparent;
+  background-color: inherit;
+  cursor: pointer;
+}
+.focused-tab {
+  color: #2563eb;
+  border-color: #2563eb;
+}
